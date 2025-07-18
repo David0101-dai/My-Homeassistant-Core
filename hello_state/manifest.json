@@ -1,0 +1,11 @@
+{
+  "domain": "hello_state",
+  "name": "Hello State",
+  "version": "0.1.0",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/hello_state",
+  "codeowners": ["@David0101-dai"],
+  "dependencies": [],
+  "requirements": ["voluptuous"],
+  "iot_class": "local_polling"
+}

@@ -1,0 +1,12 @@
+{
+  "domain": "custom_switch",
+  "name": "Custom Switch",
+  "version": "1.0.0",
+  "config_flow": true,
+  "requirements": [],
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/custom_light",
+  "codeowners": ["@David0101-dai"],
+  "iot_class": "local_poll",
+  "platforms": ["switch"]
+}

@@ -1,0 +1,12 @@
+{
+  "domain": "custom_light",
+  "name": "Custom Light",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/custom_light",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@David0101-dai"],
+  "iot_class": "local_poll",
+  "platforms": ["light"]
+}
